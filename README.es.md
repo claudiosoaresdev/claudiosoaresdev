@@ -11,8 +11,11 @@
 </div>
 
 Desarrollador de software con **6 años** de experiencia construyendo **aplicaciones móviles**
-y **sistemas back-end**. Móvil con **React Native** y **Flutter**, nativo en **Android**
-(Kotlin/Java) e **iOS**. En el back-end, **Node.js**, **TypeScript**, **NestJS** y APIs REST.
+y **sistemas back-end**.
+
+Desarrollo **nativo** en **Android** (Kotlin/Java) e **iOS**, y también multiplataforma con
+**React Native**, **Flutter** y **Kotlin Multiplatform**.
+En el back-end, **Node.js**, **TypeScript**, **NestJS** y APIs REST.
 
 Me gustan los proyectos con decisiones explícitas: arquitectura en capas, pruebas que detectan
 regresiones y documentación que explica el *porqué*, no solo el *cómo*.
@@ -22,8 +25,8 @@ regresiones y documentación que explica el *porqué*, no solo el *cómo*.
 ![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=A9FE00)
 ![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=A9FE00)
 ![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=A9FE00)
-![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=A9FE00)
 ![React Native](https://img.shields.io/badge/React%20Native-0A0A0A?style=for-the-badge&logo=react&logoColor=A9FE00)
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=A9FE00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=A9FE00)
 ![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs&logoColor=A9FE00)
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=A9FE00)

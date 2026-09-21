@@ -11,7 +11,9 @@
 </div>
 
 Software developer with **6 years** of experience building **mobile applications** and **back-end systems**.
-Mobile with **React Native** and **Flutter**, native on **Android** (Kotlin/Java) and **iOS**.
+
+**Native** development on **Android** (Kotlin/Java) and **iOS**, plus cross-platform with
+**React Native**, **Flutter** and **Kotlin Multiplatform**.
 On the back end, **Node.js**, **TypeScript**, **NestJS** and REST APIs.
 
 I like projects with explicit decisions: layered architecture, tests that actually catch
@@ -22,8 +24,8 @@ regressions, and documentation that explains the *why*, not just the *how*.
 ![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=A9FE00)
 ![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=A9FE00)
 ![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=A9FE00)
-![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=A9FE00)
 ![React Native](https://img.shields.io/badge/React%20Native-0A0A0A?style=for-the-badge&logo=react&logoColor=A9FE00)
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=A9FE00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=A9FE00)
 ![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs&logoColor=A9FE00)
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=A9FE00)
