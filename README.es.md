@@ -17,8 +17,8 @@ Desarrollo **nativo** en **Android** (Kotlin/Java) e **iOS**, y también multipl
 **React Native**, **Flutter** y **Kotlin Multiplatform**.
 En el back-end, **Node.js**, **TypeScript**, **NestJS** y APIs REST.
 
-Me gustan los proyectos con decisiones explícitas: arquitectura en capas, pruebas que detectan
-regresiones y documentación que explica el *porqué*, no solo el *cómo*.
+¡Siéntete libre de explorar mis repositorios y proyectos! Me gusta intercambiar ideas
+y colaborar en nuevos desafíos.
 
 <div align="center">
 

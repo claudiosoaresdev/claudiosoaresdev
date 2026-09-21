@@ -16,8 +16,8 @@ Software developer with **6 years** of experience building **mobile applications
 **React Native**, **Flutter** and **Kotlin Multiplatform**.
 On the back end, **Node.js**, **TypeScript**, **NestJS** and REST APIs.
 
-I like projects with explicit decisions: layered architecture, tests that actually catch
-regressions, and documentation that explains the *why*, not just the *how*.
+Feel free to check out my repositories and projects — I'm always open to new ideas
+and collaborations!
 
 <div align="center">
 
