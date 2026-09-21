@@ -1,23 +1,137 @@
-<div align="start">
+<div align="center">
 
-# 🖖 Hey, everyone! 🇺🇸
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/header-light.svg">
+  <img src="docs/header-dark.svg" alt="Claudio Soares — Software Engineer" width="100%">
+</picture>
 
 🇧🇷 [Português](README.md) · 🇺🇸 English · 🇪🇸 [Español](README.es.md)
 
 </div>
 
-I'm a software developer with **6 years** of experience building **mobile applications** and **back-end systems**.
+Software developer with **6 years** of experience building **mobile applications** and **back-end systems**.
+Mobile with **React Native** and **Flutter**, native on **Android** (Kotlin/Java) and **iOS**.
+On the back end, **Node.js**, **TypeScript**, **NestJS** and REST APIs.
 
-My main focus is **mobile development** with **React Native** and **Flutter**, plus native apps for **Android** (Kotlin/Java) and **iOS**. On the **back-end**, I work with **Node.js**, **TypeScript**, and **REST APIs**.
+I like projects with explicit decisions: layered architecture, tests that actually catch
+regressions, and documentation that explains the *why*, not just the *how*.
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/claudiosoaresdev).
-- I occasionally share quick tips on [Instagram](https://www.instagram.com/claudio.soares.dev).
+<div align="center">
 
-Feel free to check out my repositories and projects — I'm always open to new ideas and collaborations!
+![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=A9FE00)
+![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=A9FE00)
+![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=for-the-badge&logo=swift&logoColor=A9FE00)
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=A9FE00)
+![React Native](https://img.shields.io/badge/React%20Native-0A0A0A?style=for-the-badge&logo=react&logoColor=A9FE00)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=A9FE00)
+![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs&logoColor=A9FE00)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=A9FE00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=A9FE00)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=A9FE00)
 
----
+</div>
 
-### 🌐 Socials
+## Featured projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiosoaresdev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/claudio.soares.dev/)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://claudiosoaresdev.github.io/portfolio/"><img src="docs/portfolio.gif" alt="Portfolio: home scroll, project reveal and 3D showcase" width="100%"></a>
+
+**[Portfolio](https://github.com/claudiosoaresdev/portfolio)** — HUD-futuristic aesthetic with a
+scroll-driven 3D smartphone showcase.
+
+`Next.js` `TypeScript` `Three.js` `GitHub Pages`
+
+[Live demo](https://claudiosoaresdev.github.io/portfolio/) · [Source](https://github.com/claudiosoaresdev/portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/claudiosoaresdev/blueprint-canvas-demo"><img src="docs/blueprint.gif" alt="Blueprint Canvas: interactive architecture blueprint" width="100%"></a>
+
+**[Nx Blueprint](https://github.com/claudiosoaresdev/blueprint-canvas-demo)** — the architecture
+blueprint for a Next.js app: multi-tenant, i18n, server-first auth and modern caching.
+
+`Next.js` `TypeScript` `shadcn/ui`
+
+[Source](https://github.com/claudiosoaresdev/blueprint-canvas-demo)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/claudiosoaresdev/realm-compose-ui"><img src="docs/realm.png" alt="Realm Compose UI: the same screen rendered as two different houses" width="100%"></a>
+
+**[Realm Compose UI](https://github.com/claudiosoaresdev/realm-compose-ui)** — Server Driven UI on
+Android: the same screen becomes two different houses from the payload alone, no release needed.
+
+`Kotlin` `Jetpack Compose` `Koin` `Retrofit`
+
+[Source](https://github.com/claudiosoaresdev/realm-compose-ui)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/claudiosoaresdev/nestjs-auth-template"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/card-auth-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/card-auth-light.svg">
+  <img src="docs/card-auth-dark.svg" alt="Auth API Template" width="100%">
+</picture></a>
+
+**[NestJS Auth Template](https://github.com/claudiosoaresdev/nestjs-auth-template)** — JWT RS256,
+refresh token rotation, email verification and password reset. Clean architecture and e2e tests.
+
+`NestJS` `Prisma` `Redis` `Vitest`
+
+[Source](https://github.com/claudiosoaresdev/nestjs-auth-template)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>One more project</b></summary>
+
+<br>
+
+<a href="https://github.com/claudiosoaresdev/nest-offline-sync"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/card-sync-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/card-sync-light.svg">
+  <img src="docs/card-sync-dark.svg" alt="Offline-first sync" width="49%">
+</picture></a>
+
+**[nest-offline-sync](https://github.com/claudiosoaresdev/nest-offline-sync)** — offline-first sync
+for a large catalog (~3000 products): snapshot + delta sync, server-side repricing and real-time
+events over SSE with automatic replay.
+
+`NestJS` `PostgreSQL` `Prisma` `SSE`
+
+</details>
+
+<details>
+<summary><b>Full stack</b></summary>
+
+<br>
+
+| Layer | Technologies |
+|---|---|
+| Native mobile | Kotlin, Jetpack Compose, Java, Swift, SwiftUI |
+| Cross-platform mobile | React Native, Flutter, Kotlin Multiplatform |
+| Front end | TypeScript, React, Next.js, Tailwind CSS |
+| Back end | Node.js, NestJS, Express, REST APIs |
+| Data | PostgreSQL, Prisma, Redis, Room |
+| Quality | Vitest, Jest, e2e tests, ESLint, Prettier, Husky |
+| Infra | Docker, GitHub Actions, GitHub Pages, Vercel |
+
+</details>
+
+## Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=A9FE00)](https://claudiosoaresdev.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A9FE00)](https://www.linkedin.com/in/claudiosoaresdev/)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=A9FE00)](https://www.instagram.com/claudio.soares.dev/)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A9FE00)](mailto:claudio.soares.dev@gmail.com)
